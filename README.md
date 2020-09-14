@@ -3,6 +3,8 @@
 
 ### A Web App  for any erc20 contract address, it pulls in the price against WETH, and available liquidity from Uniswap v2 Contract /Coingecko for [Sfox](https://www.sfox.com/) Prescreening Test.
 
+# Web App Link
+- [Annex](http://annex-sfox.s3-website.ap-south-1.amazonaws.com/)
 
 # Contributing
 
