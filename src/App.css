@@ -1,0 +1,84 @@
+html,
+body,
+#root,
+#root > div {
+  height: 100%;
+  margin: 0;
+  background-color: #282c34;
+}
+
+.App {
+  text-align: center;
+  background-color: #282c34;
+  min-height: 100vh;
+  min-width: 100vw;
+}
+
+#label {
+  color: white;
+  font-size: xx-large;
+}
+
+#links {
+  color: #08a0ab;
+}
+
+#links:hover {
+  text-decoration: none;
+  transition: 0.2s ease-in;
+  color: white;
+  border-color: #00d395;
+  background-color: #00d395;
+}
+
+#search-button {
+  padding: 1rem 3rem;
+  background-color: #08a0ab;
+  color: #ffffff;
+  border: none;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+Table,
+thead,
+td,
+tr {
+  background-color: white;
+}
+
+.center {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+#link {
+  color: white;
+  cursor: pointer;
+}
+
+.contact {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.underline-link {
+  text-decoration: underline;
+}
+
+#link:hover {
+  color: #08a0ab;
+  transition: all 0.3s ease 0s;
+}
+
+.navitem {
+  border: 1px solid #08a0ab;
+  color: #08a0ab;
+}
+
+.padding {
+  padding: 10px 10px;
+}
